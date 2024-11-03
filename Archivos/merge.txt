@@ -1,0 +1,1 @@
+Lo que paso fue que la opcion commit se habilito en mi git hub desktop y luego el push. esto debido a que ahora la carpeta no estaba vacia sino que tenia un archivo txt
