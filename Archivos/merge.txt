@@ -1,0 +1,1 @@
+Se activo la opcion commit para la carpeta porque esta dejo de estar vacia y le ingrese un archivo, al ya no ser una carpeta vacia podia hacerle un commit y luego un push
