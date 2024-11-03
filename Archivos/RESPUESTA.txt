@@ -1,0 +1,1 @@
+En el punto anterior, el problema vino después de crear la carpeta. cree la carpeta en archivos y la nombré y en el momento de hacerle comit,la opción estaba deshabilitada lo que me sorprendió pero a su vez me recordó que no puedo hacer un comit de una carpeta vacía, hubo un error en cuanto a hacer comit de una carpeta vacía
